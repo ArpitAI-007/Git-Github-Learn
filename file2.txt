@@ -1,1 +1,2 @@
 This is the another file
+i want to add this also in file 2
