@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .env
 file1.txt
+=======
+.env
+>>>>>>> bug-fix
 =======
 .env
 >>>>>>> bug-fix
