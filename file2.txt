@@ -3,3 +3,5 @@ i want to add this also in file 2
 
 
 add another hero's action in your project.
+
+Add a footer note as it is mandatory.
