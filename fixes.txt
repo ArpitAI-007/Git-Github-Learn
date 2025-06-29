@@ -1,7 +1,7 @@
 Now we have to start the fixing of any bug occurs.
 
-
 Now we have to fix these bugs also.
 
-
 One more bug is detected and i am trying to fix it.
+
+Fourt bug is fixed.
