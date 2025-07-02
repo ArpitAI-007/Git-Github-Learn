@@ -12,3 +12,5 @@ Fourt bug is fixed.
 
 Fifth bug is here.
 >>>>>>> bug-fix
+
+This is the another bug for testing the pink mode of this website.
