@@ -2,3 +2,5 @@ This is the starting point of my coding journey
 Adding this much content in file one
 
 2025 is coming bro.
+
+From terminal.
